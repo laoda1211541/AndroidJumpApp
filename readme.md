@@ -22,7 +22,7 @@
 
 数据库（jumpapp），建表（User），字段名如下，sql文件导入也行
 
-![image-20200530142015186](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530142015186.png)
+![image-20200530142015186](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530142015186.png)
 
 ### 二、导入jumpAppServer
 
@@ -32,19 +32,19 @@
 
 修改db.properties，账户密码改为你自己的（注意：MySQL8以上的driver包名要加上cj，如图）
 
-![image-20200530142225164](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530142225164.png)
+![image-20200530142225164](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530142225164.png)
 
 ### 四、查看DBConfig类下文件路径有无问题
 
 查看DBConfig类下文件路径有无问题，配置好了可以单元测试一下
 
-![image-20200530142641201](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530142641201.png)
+![image-20200530142641201](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530142641201.png)
 
 ### 五、运行服务器
 
 出现如图界面和地址即服务器配置完毕
 
-![image-20200530142428686](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530142428686.png)
+![image-20200530142428686](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530142428686.png)
 
 ### 六、导入安卓jumpApp
 
@@ -54,18 +54,18 @@
 ipconfig -all
 ```
 
-![image-20200530142921662](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530142921662.png)
+![image-20200530142921662](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530142921662.png)
 
 ### 七、运行项目
 
 ### 八、演示图,视频在里面
 
-![image-20200530145958765](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530145958765.png)
+![image-20200530145958765](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530145958765.png)
 
-![image-20200530150014801](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530150014801.png)
+![image-20200530150014801](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530150014801.png)
 
-![image-20200530150030215](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530150030215.png)
+![image-20200530150030215](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530150030215.png)
 
-![image-20200530150039355](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530150039355.png)
+![image-20200530150039355](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530150039355.png)
 
-![image-20200530150055346](C:\Users\18443\Desktop\Android-JumpAPP\AndroidJumpApp\image-20200530150055346.png)
+![image-20200530150055346](https://github.com/Saraph1nes/AndroidJumpApp/blob/master/img/image-20200530150055346.png)
